@@ -81,5 +81,5 @@ theme: landscape
 
 deploy:
   type: git
-  repo: https://github.com/Gh-Lu/Gh-Lu.github.io.git
+  repo: https://github.com/Gh-Lu/qiyu.github.io.git
   branch: master
